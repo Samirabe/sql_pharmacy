@@ -1,6 +1,6 @@
 /* 
 final exam : pharmacy
-Samira BEsharatian
+Samira Besharatian
 Esfand 1403 
 */
 
